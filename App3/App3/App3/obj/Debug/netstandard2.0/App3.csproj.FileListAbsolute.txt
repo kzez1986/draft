@@ -1,0 +1,12 @@
+c:\users\jakub\source\repos\App3\App3\App3\bin\Debug\netstandard2.0\App3.deps.json
+c:\users\jakub\source\repos\App3\App3\App3\bin\Debug\netstandard2.0\App3.dll
+c:\users\jakub\source\repos\App3\App3\App3\bin\Debug\netstandard2.0\App3.pdb
+c:\users\jakub\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.csprojAssemblyReference.cache
+c:\users\jakub\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\jakub\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+c:\users\jakub\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.csproj.CoreCompileInputs.cache
+c:\users\jakub\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfoInputs.cache
+c:\users\jakub\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.AssemblyInfo.cs
+c:\users\jakub\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\jakub\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.dll
+c:\users\jakub\source\repos\App3\App3\App3\obj\Debug\netstandard2.0\App3.pdb

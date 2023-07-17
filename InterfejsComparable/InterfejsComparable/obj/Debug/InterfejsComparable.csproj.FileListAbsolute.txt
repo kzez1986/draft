@@ -1,0 +1,7 @@
+C:\Users\Jakub\source\repos\InterfejsComparable\InterfejsComparable\obj\Debug\InterfejsComparable.csprojAssemblyReference.cache
+C:\Users\Jakub\source\repos\InterfejsComparable\InterfejsComparable\obj\Debug\InterfejsComparable.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\InterfejsComparable\InterfejsComparable\bin\Debug\InterfejsComparable.exe.config
+C:\Users\Jakub\source\repos\InterfejsComparable\InterfejsComparable\bin\Debug\InterfejsComparable.exe
+C:\Users\Jakub\source\repos\InterfejsComparable\InterfejsComparable\bin\Debug\InterfejsComparable.pdb
+C:\Users\Jakub\source\repos\InterfejsComparable\InterfejsComparable\obj\Debug\InterfejsComparable.exe
+C:\Users\Jakub\source\repos\InterfejsComparable\InterfejsComparable\obj\Debug\InterfejsComparable.pdb

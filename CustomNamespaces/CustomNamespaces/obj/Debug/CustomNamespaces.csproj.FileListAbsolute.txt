@@ -1,0 +1,2 @@
+C:\Users\Jakub\source\repos\CustomNamespaces\CustomNamespaces\obj\Debug\CustomNamespaces.csprojAssemblyReference.cache
+C:\Users\Jakub\source\repos\CustomNamespaces\CustomNamespaces\obj\Debug\CustomNamespaces.csproj.CoreCompileInputs.cache

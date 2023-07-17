@@ -1,0 +1,7 @@
+C:\Users\Jakub\source\repos\CustomGeneric\CustomGeneric\bin\Debug\CustomGeneric.exe.config
+C:\Users\Jakub\source\repos\CustomGeneric\CustomGeneric\bin\Debug\CustomGeneric.exe
+C:\Users\Jakub\source\repos\CustomGeneric\CustomGeneric\bin\Debug\CustomGeneric.pdb
+C:\Users\Jakub\source\repos\CustomGeneric\CustomGeneric\obj\Debug\CustomGeneric.csprojAssemblyReference.cache
+C:\Users\Jakub\source\repos\CustomGeneric\CustomGeneric\obj\Debug\CustomGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\CustomGeneric\CustomGeneric\obj\Debug\CustomGeneric.exe
+C:\Users\Jakub\source\repos\CustomGeneric\CustomGeneric\obj\Debug\CustomGeneric.pdb

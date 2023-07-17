@@ -1,0 +1,10 @@
+c:\users\r61\documents\visual studio 2015\Projects\CarCSharpClient\CarCSharpClient\bin\Debug\CarCSharpClient.exe.config
+c:\users\r61\documents\visual studio 2015\Projects\CarCSharpClient\CarCSharpClient\obj\Debug\CarCSharpClient.csprojResolveAssemblyReference.cache
+c:\Users\r61\Documents\Visual Studio 2015\Projects\CarCSharpClient\CarCSharpClient\bin\Debug\CarCSharpClient.exe
+c:\Users\r61\Documents\Visual Studio 2015\Projects\CarCSharpClient\CarCSharpClient\bin\Debug\CarCSharpClient.pdb
+c:\Users\r61\Documents\Visual Studio 2015\Projects\CarCSharpClient\CarCSharpClient\bin\Debug\CarLibrary.dll
+c:\Users\r61\Documents\Visual Studio 2015\Projects\CarCSharpClient\CarCSharpClient\bin\Debug\CarLibrary.pdb
+c:\Users\r61\Documents\Visual Studio 2015\Projects\CarCSharpClient\CarCSharpClient\obj\Debug\CarCSharpClient.exe
+c:\Users\r61\Documents\Visual Studio 2015\Projects\CarCSharpClient\CarCSharpClient\obj\Debug\CarCSharpClient.pdb
+c:\Users\r61\Documents\Visual Studio 2015\Projects\CarCSharpClient\CarCSharpClient\bin\Debug\EasterEgg.dll
+c:\Users\r61\Documents\Visual Studio 2015\Projects\CarCSharpClient\CarCSharpClient\bin\Debug\EasterEgg.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jakub\source\repos\Odśmiecacz\Odśmiecacz\bin\Debug\Odśmiecacz.exe.config
+C:\Users\Jakub\source\repos\Odśmiecacz\Odśmiecacz\bin\Debug\Odśmiecacz.exe
+C:\Users\Jakub\source\repos\Odśmiecacz\Odśmiecacz\bin\Debug\Odśmiecacz.pdb
+C:\Users\Jakub\source\repos\Odśmiecacz\Odśmiecacz\obj\Debug\Odśmiecacz.csprojAssemblyReference.cache
+C:\Users\Jakub\source\repos\Odśmiecacz\Odśmiecacz\obj\Debug\Odśmiecacz.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\Odśmiecacz\Odśmiecacz\obj\Debug\Odśmiecacz.exe
+C:\Users\Jakub\source\repos\Odśmiecacz\Odśmiecacz\obj\Debug\Odśmiecacz.pdb

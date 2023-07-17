@@ -1,0 +1,7 @@
+C:\Users\Jakub\source\repos\Inferitance\Inferitance\bin\Debug\Inferitance.exe.config
+C:\Users\Jakub\source\repos\Inferitance\Inferitance\bin\Debug\Inferitance.exe
+C:\Users\Jakub\source\repos\Inferitance\Inferitance\bin\Debug\Inferitance.pdb
+C:\Users\Jakub\source\repos\Inferitance\Inferitance\obj\Debug\Inferitance.csprojAssemblyReference.cache
+C:\Users\Jakub\source\repos\Inferitance\Inferitance\obj\Debug\Inferitance.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\Inferitance\Inferitance\obj\Debug\Inferitance.exe
+C:\Users\Jakub\source\repos\Inferitance\Inferitance\obj\Debug\Inferitance.pdb

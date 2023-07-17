@@ -1,0 +1,4 @@
+C:\Users\Jakub\source\repos\Selenium\Selenium\obj\Debug\Selenium.Form1.resources
+C:\Users\Jakub\source\repos\Selenium\Selenium\obj\Debug\Selenium.Properties.Resources.resources
+C:\Users\Jakub\source\repos\Selenium\Selenium\obj\Debug\Selenium.csproj.GenerateResource.cache
+C:\Users\Jakub\source\repos\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache

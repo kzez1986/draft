@@ -1,0 +1,8 @@
+c:\users\r61\documents\visual studio 2015\Projects\EasterEgg\EasterEgg\bin\Debug\EasterEgg.dll
+c:\users\r61\documents\visual studio 2015\Projects\EasterEgg\EasterEgg\bin\Debug\EasterEgg.pdb
+c:\users\r61\documents\visual studio 2015\Projects\EasterEgg\EasterEgg\obj\Debug\EasterEgg.csprojResolveAssemblyReference.cache
+c:\users\r61\documents\visual studio 2015\Projects\EasterEgg\EasterEgg\obj\Debug\EasterEgg.Properties.Resources.resources
+c:\users\r61\documents\visual studio 2015\Projects\EasterEgg\EasterEgg\obj\Debug\EasterEgg.ShowImage.resources
+c:\users\r61\documents\visual studio 2015\Projects\EasterEgg\EasterEgg\obj\Debug\EasterEgg.csproj.GenerateResource.Cache
+c:\users\r61\documents\visual studio 2015\Projects\EasterEgg\EasterEgg\obj\Debug\EasterEgg.dll
+c:\users\r61\documents\visual studio 2015\Projects\EasterEgg\EasterEgg\obj\Debug\EasterEgg.pdb
